@@ -3,3 +3,5 @@ pandas
 requests
 seaborn
 scikit-learn
+flask_cors
+joblib
